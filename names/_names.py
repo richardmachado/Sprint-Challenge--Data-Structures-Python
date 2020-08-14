@@ -14,8 +14,6 @@ duplicates = []  # Return the list of duplicates in this data structure
 
 
 
-
-
 class BSTNode:
     def __init__(self, value):
         self.value = value
